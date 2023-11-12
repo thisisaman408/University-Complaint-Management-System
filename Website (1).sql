@@ -166,7 +166,6 @@ CREATE TABLE `Users` (
   `name_id` int(11) DEFAULT NULL,
   `email_id` int(11) DEFAULT NULL,
   `mobile_id` int(11) DEFAULT NULL,
-  `profile_pic_id` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
