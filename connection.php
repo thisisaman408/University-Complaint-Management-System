@@ -1,5 +1,5 @@
 <?php
-$dbHost = '192.168.1.3';
+$dbHost = '192.168.1.4';
 $dbUser = 'admin';
 $dbPass = 'admin';
 $dbName = 'Website';
